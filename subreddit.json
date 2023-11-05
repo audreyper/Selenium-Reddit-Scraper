@@ -1,0 +1,28 @@
+{
+    "name": "r/technology",
+    "description": "Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.",
+    "members": "15M",
+    "posts": [
+        {
+            "Author": "u/vriska1",
+            "Published date": "2 days ago",
+            "Title": "YouTube's plan backfires, people are installing better ad blockers",
+            "Topic": "Security",
+            "Link": "https://www.androidauthority.com/youtube-ad-block-installs-3382289/"
+        },
+        {
+            "Author": "u/chrisdh79",
+            "Published date": "6 days ago",
+            "Title": "Meta given 30 days to cease using the name Threads by company that trademarked it 11 years ago",
+            "Topic": "Business",
+            "Link": "https://www.techspot.com/news/100666-meta-given-30-days-cease-using-name-threads.html"
+        },
+        {
+            "Author": "u/newzee1",
+            "Published date": "4 days ago",
+            "Title": "Drugmakers Are Set to Pay 23andMe Millions to Access Consumer DNA",
+            "Topic": "Misleading",
+            "Link": "https://www.bloomberg.com/news/articles/2023-10-30/23andme-will-give-gsk-access-to-consumer-dna-data"
+        }
+    ]
+}
